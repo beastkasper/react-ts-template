@@ -1,6 +1,6 @@
 {
   "name": "React-ts-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "its template react project with using webpack bundler",
   "main": "index.tsx",
   "author": "Amin Mirzoev",
